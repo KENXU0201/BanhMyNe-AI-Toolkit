@@ -22,6 +22,7 @@
 
 - [Agent phân tích yêu cầu](agents/requirements-analyst.md) — chỉ đọc, không viết mã.
 - [Skill xác định phạm vi công việc](skills/task-triage/SKILL.md) — xác định mục tiêu, đầu vào, rủi ro và đầu ra.
+- [Skills cho Google Antigravity (Gemini)](antigravity-skills.md) — kho skill mạnh, Superpowers, cách cài trên Windows.
 
 ## Cách dùng
 
